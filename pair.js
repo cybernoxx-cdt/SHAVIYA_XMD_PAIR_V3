@@ -143,7 +143,7 @@ showAdAttribution: true
                     process.exit();
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10);
-                    RANUMITHA_X_MD_PAIR_CODE();
+                    SHAVIYA_X_MD();
                 }
             });
         } catch (err) {
