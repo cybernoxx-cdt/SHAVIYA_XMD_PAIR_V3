@@ -1,2 +1,1 @@
-# hhiru625parair-ranux
-parair
+GOD X
