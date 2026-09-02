@@ -9,7 +9,7 @@
      "restart": "pm2 restart SHAVIYA-XMD"
     },
    "dependencies": {
-    "@whiskeysockets/baileys": "npm:wileys",          
+    "@whiskeysockets/baileys": "7.0.0-rc14",          
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
